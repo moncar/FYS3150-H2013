@@ -1,0 +1,15 @@
+[Meta-information]
+project:Open cluster model
+course:FYS3150
+language:C++
+compileFlags:[]
+linkFlags:[O3]
+compiler:c++
+libLocations:[]
+sourceDir:src/
+headerSearchDirs:[]
+exe:ClusterModel.x
+buildDir:build/
+objectsDir:.objects/
+libs:[boost_program_options, armadillo]
+files:[constants.cpp, gaussiandeviate.cpp, SystemLeapFrog.cpp, SystemRK4.cpp, Random.cpp, Particle.cpp, System.cpp, main.cpp]
