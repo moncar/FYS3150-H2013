@@ -1,0 +1,13 @@
+[Meta-information]
+project:Modeling diffusion equation
+course:FYS3150
+language:C++
+compileFlags:[]
+linkFlags:[]
+libLocations:[]
+sourceDir:src/
+headerSearchDirs:[]
+exe:DiffusionModel.x
+buildDir:build/
+libs:[armadillo]
+files:[main.cpp, diffusionIntegration.cpp]

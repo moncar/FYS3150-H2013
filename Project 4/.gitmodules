@@ -1,0 +1,3 @@
+[submodule "src/dependencies/TAlg"]
+	path = src/dependencies/TAlg
+	url = git@github.com:jaremikb/FYS3150-Prj01.git
