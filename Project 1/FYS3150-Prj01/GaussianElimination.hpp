@@ -1,0 +1,4 @@
+#ifndef GAUSSIANELIMINATION_HPP
+#define GAUSSIANELIMINATION_HPP
+void GESolve(double*,double*,int);
+#endif // GAUSSIANELIMINATION_HPP
