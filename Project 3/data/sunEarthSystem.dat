@@ -1,0 +1,10 @@
+#UNITS#
+Length: m
+Time: s
+Velocity: m/s
+Mass: kg
+#HEADER#
+ObjectId x0 y0 v0x v0y m
+#DATA#
+Sun 0 0 0 0 2e30
+Earth 149597870700 0 0 29.78e3 6e24

@@ -1,0 +1,12 @@
+[Meta-information]
+project:The solar system
+course:FYS3150
+language:C++
+compileFlags:[]
+linkFlags:[]
+libLocations:[]
+sourceDir:src/
+exe:TheSolarSystem.x
+buildDir:build/
+libs:[armadillo]
+files:[main.cpp, CelestialObject.cpp, SolarSystem.cpp]

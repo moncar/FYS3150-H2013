@@ -1,0 +1,11 @@
+#UNITS#
+Length: AU
+Time: Years
+Velocity: AU/years
+Mass: G*AU^3/yr^2
+#HEADER#
+ObjectId x0 y0 v0x v0y m
+#DATA#
+Sun 0 0 0 0 39.4784176044
+Earth 1 0 0 6.28 0.0001185323
+Moon 1.0024 0 0 6.495585811000001 1.45037784516e-06
